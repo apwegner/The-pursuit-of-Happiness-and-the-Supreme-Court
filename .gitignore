@@ -1,0 +1,12 @@
+*.pyc
+*.pdf
+*.zip
+
+plots
+results
+.ipynb_checkpoints
+AutogluonModels
+results_old*
+plots_old*
+
+.idea
