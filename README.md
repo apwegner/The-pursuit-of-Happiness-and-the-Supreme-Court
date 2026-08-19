@@ -5,6 +5,14 @@ This project explores the intersection of legal analysis and data science to pre
 
 ---
 
+## Start here
+For legal readers, the primary entry point is the
+[human-readable case database](./00_human_readable_case_database.docx).
+It presents the U.S. Supreme Court decisions underlying the analysis in a
+legally accessible format. The structured datasets and successive processing
+stages are available in `data/`; the quantitative results and figures are
+available in `results/`.
+
 ## **Key Objectives**
 1. **Variable Relationships**:
    - Employ **Cramér's V** to measure the strength of relationships between two categorical variables (ranging from 0 to 1).
