@@ -1,1 +1,2 @@
-
+The results/figures/ directory contains figures generated from the quantitative and machine-learning analyses of the coded U.S. Supreme Court dataset on pursuit of Happiness and Happiness. It includes correlation and association analyses, permutation correlations, and permutation-importance results under different temporal and opinion-type specifications.
+"[F]ull-feature-results/" contains outputs based on the full feature set, while "top-20-features/" contains the corresponding analyses using a reduced set of twenty features. The figures support the analyses reported in Chapter 2, § 1 F of the dissertation and the supplementary results reproduced in the appendix.
